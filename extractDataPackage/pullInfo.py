@@ -11,6 +11,7 @@
 # Citations:
 # Anything else that's relevant:
 
+
 def extract_info (dict):
     new_dict = dict['results']
     dicton = new_dict[0]
